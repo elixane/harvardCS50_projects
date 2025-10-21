@@ -1,6 +1,6 @@
 # Harvard CS50's Introduction to Artificial Intelligence with Python
 
-This repository contains all of my project implementations for Harvard's CS50's Introduction to Artificial Intelligence with Python course. Each project explores fundamental concepts in artificial intelligence, including search algorithms, knowledge representation, uncertainty, optimization, machine learning, neural networks, and natural language processing.
+This repository contains all of my project implementations for Harvard's CS50's Introduction to Artificial Intelligence with Python course. Each project explores fundamental concepts in artificial intelligence, including search algorithms, knowledge representation, uncertainty, optimisation, machine learning, neural networks, and natural language processing.
 CS50's Introduction to Artificial Intelligence with Python explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. 
 Through hands-on projects, I gained exposure to the theory behind graph search algorithms, classification, optimisation, reinforcement learning, and other topics in artificial intelligence as I incorporated them into my own Python programs.
 
